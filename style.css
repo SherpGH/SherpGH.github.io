@@ -1,0 +1,6 @@
+html *
+{
+   font-size: 1em !important;
+   color: rgb(255, 0, 0) !important;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+}
